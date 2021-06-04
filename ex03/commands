@@ -1,0 +1,5 @@
+Etape 1
+sed 's/Corbeau/chat/' leCorbeauEtLeRenard.txt
+
+Etape 2
+sed '/honteux/ s/Corbeau/Lolita/' leCorbeauEtLeRenard.txt

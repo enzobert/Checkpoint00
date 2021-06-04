@@ -1,0 +1,6 @@
+Etape 1
+sed 's/gonna/GONNA/' Never_gonna_give_you_up.RickRolled
+
+Etape 2
+sed -e '/$/d' Never_gona_give_you_up.RickRolled
+
